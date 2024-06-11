@@ -1,7 +1,7 @@
 {
   "name": "unplugin-vue-definename",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@8.6.12",
   "description": "use defineName macro in <script setup> project",
   "license": "MIT",
